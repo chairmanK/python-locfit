@@ -8,4 +8,4 @@ Project goals:
 - Eventually become a part of the SciPy project
 
 Maintainer:
-Steve M. Kim <steve@climate.com>
+Steve M. Kim <chairmanK@gmail.com>
